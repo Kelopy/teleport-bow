@@ -1,0 +1,9 @@
+give-bow-on-join: true
+
+bow-name: "&b&lTeleport Bow"
+bow-lore:
+  - "Shoot your shot"
+  - "and teleport away!"
+
+tp-message: true
+message: "&b&oWooosh!"

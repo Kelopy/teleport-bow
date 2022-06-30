@@ -1,0 +1,12 @@
+name: TeleportBow
+version: '${project.version}'
+main: me.kelopy.teleportbow.TeleportBow
+authors: [ Kelopy ]
+description: Teleport around with a bow
+website: https://www.youtube.com/channel/UCR2aXuyENRpLL6v9j3e9Y-w
+commands:
+  tpbow:
+    description: give yourself a teleport bow
+    usage: /<command> [target]
+    permission: tpbow.givebow
+    permission-message: "§cYou don't have permission to execute this command."
